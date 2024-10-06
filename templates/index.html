@@ -109,7 +109,7 @@
         <li>
             <strong>Product Category:</strong> {{ recommendation['Product'] | title }}<br>
             <!-- <strong>Score:</strong> {{ recommendation['Score'] }}<br> -->
-            <strong>Ingredient Connection:</strong> {{ recommendation['Ingredient Connection'] | join(', ') | title }}<br>
+            <strong>Matching dish ingredients:</strong> {{ recommendation['Ingredient Connection'] | join(', ') | title }}<br>
         </li>
         {% endfor %}
     </ul>
