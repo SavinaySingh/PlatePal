@@ -68,6 +68,3 @@ The notebook is located in the `notebook` folder under the name `model_explanati
 - **Expand Data Sources**: Incorporate additional APIs and web scraping methods to gather menu data from more restaurants.
 - **Improve Recommendation Algorithms**: Utilize advanced indexing methods like FAISS (Facebook AI Similarity Search) to improve the speed and efficiency of similarity searches in high-dimensional spaces. Leverage LLMs to automatically extract themes and keywords from reviews and menu descriptions.
 - **User Interface**: Develop a user-friendly interface to allow restaurant owners and suppliers to easily access and utilize the application.
-
-## Conclusion
-PlatePal serves as an initial step towards creating a more data-driven approach to inventory management for restaurants. By leveraging menu data and a comprehensive product catalogue, the application aims to provide valuable insights that can benefit both restaurant owners and product suppliers.
