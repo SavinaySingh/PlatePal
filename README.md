@@ -66,7 +66,7 @@ To facilitate a deeper understanding of the model used in PlatePal, I have creat
 The notebook is located in the `notebook` folder under the name `model_explanation.ipynb`. You can open and run this notebook to explore the model's workings and the comparative analysis.
 ## Future Work
 - **Expand Data Sources**: Incorporate additional APIs and web scraping methods to gather menu data from more restaurants.
-- **Improve Recommendation Algorithms**: Experiment with more advanced algorithms, such as machine learning models, to enhance recommendation accuracy. Utilize advanced indexing methods like FAISS (Facebook AI Similarity Search) to improve the speed and efficiency of similarity searches in high-dimensional spaces. Leverage LLMs to automatically extract themes and keywords from reviews and menu descriptions.
+- **Improve Recommendation Algorithms**: Utilize advanced indexing methods like FAISS (Facebook AI Similarity Search) to improve the speed and efficiency of similarity searches in high-dimensional spaces. Leverage LLMs to automatically extract themes and keywords from reviews and menu descriptions.
 - **User Interface**: Develop a user-friendly interface to allow restaurant owners and suppliers to easily access and utilize the application.
 
 ## Conclusion
